@@ -1,0 +1,32 @@
+{
+    "experiences": [
+        {
+            "title": "Software Development Engineer",
+            "subtitle": "Emtec inc",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated **2** new product.",
+                " Worked on designing, developing and implementing new features like adding different configurations,\n adding dyna,ic tables in the application using reeactJS, Javascript andTypeScript and cutting-edge technologies."
+            ],
+            "dateText": "06/2022 – Present"
+        },
+        {
+            "title": "Full Stack Developer",
+            "subtitle": "MIndlogic Solutions LLP",
+            "workType": "Full-time",
+            "workDescription": [
+                "Worked on Diamond Trading App."
+            ],
+            "dateText": "11/2021 – 05/2022"
+        },
+        {
+            "title": "Design Engineer",
+            "subtitle": "Sumesh Industries",
+            "workType": "Full-time",
+            "workDescription": [
+                "Carry out 3D Modelling, 2D drafting for Automotive Vehicle Assembly parts. Plan and Co-ordinate design activities"
+            ],
+            "dateText": "07/2019 – 09/2021"
+        }
+    ]
+}
