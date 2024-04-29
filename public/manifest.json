@@ -3,8 +3,8 @@
   "name": "Mayank Agarwal - Portfolio",
   "icons": [
     {
-      "src": "images/logo.png",
-      "type": "image/png",
+      "src": "images/react-logo.jpg",
+      "type": "image/jpg",
       "sizes": "425x225"
     }
   ],
