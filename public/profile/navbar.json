@@ -1,8 +1,8 @@
 {
-    "logo" : {
+    "logo": {
         "source": "images/react-logo.jpg",
-        "height" : 45,
-        "width" : 50
+        "height": 45,
+        "width": 50
     },
     "sections": [
         {
@@ -29,7 +29,10 @@
             "title": "Resume",
             "href": "https://drive.google.com/file/d/1iEOCCKWIedVVkd30W9ez6Io7qXwPwE66/view?usp=drive_link",
             "type": "link"
+        },
+        {
+            "title": "Projects",
+            "href": "/projects"
         }
     ]
-
 }
