@@ -1,38 +1,33 @@
 {
-    "logo": {
-        "source": "images/react-logo.jpg",
-        "height": 45,
-        "width": 50
+  "logo": {
+    "source": "images/react-logo.jpg",
+    "height": 45,
+    "width": 50
+  },
+  "sections": [
+    {
+      "title": "Home",
+      "href": "/"
     },
-    "sections": [
-        {
-            "title": "Home",
-            "href": "/"
-        },
-        {
-            "title": "About",
-            "href": "/about"
-        },
-        {
-            "title": "Skills",
-            "href": "/skills"
-        },
-        {
-            "title": "Education",
-            "href": "/education"
-        },
-        {
-            "title": "Experience",
-            "href": "/experience"
-        },
-        {
-            "title": "Resume",
-            "href": "https://drive.google.com/file/d/1E0m79VXsJuc2jwu-wU0-DBBmEnK_2Zpi/view?usp=sharing",
-            "type": "link"
-        },
-        {
-            "title": "Projects",
-            "href": "/projects"
-        }
-    ]
+    {
+      "title": "About",
+      "href": "/about"
+    },
+    {
+      "title": "Skills",
+      "href": "/skills"
+    },
+    {
+      "title": "Education",
+      "href": "/education"
+    },
+    {
+      "title": "Experience",
+      "href": "/experience"
+    },
+    {
+      "title": "Projects",
+      "href": "/projects"
+    }
+  ]
 }

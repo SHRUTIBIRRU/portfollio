@@ -1,32 +1,39 @@
 {
-    "experiences": [
-        {
-            "title": "Software Development Engineer",
-            "subtitle": "Emtec inc",
-            "workType": "Full-time",
-            "workDescription": [
-                "Integrated **2** new product.",
-                " Worked on designing, developing and implementing new features like adding different configurations,\n adding dyna,ic tables in the application using reeactJS, Javascript andTypeScript and cutting-edge technologies."
-            ],
-            "dateText": "06/2022 – Present"
-        },
-        {
-            "title": "Full Stack Developer",
-            "subtitle": "MIndlogic Solutions LLP",
-            "workType": "Full-time",
-            "workDescription": [
-                "Worked on Diamond Trading App."
-            ],
-            "dateText": "11/2021 – 05/2022"
-        },
-        {
-            "title": "Design Engineer",
-            "subtitle": "Sumesh Industries",
-            "workType": "Full-time",
-            "workDescription": [
-                "Carry out 3D Modelling, 2D drafting for Automotive Vehicle Assembly parts. Plan and Co-ordinate design activities"
-            ],
-            "dateText": "07/2019 – 09/2021"
-        }
-    ]
+  "experiences": [
+    {
+      "title": "Software Development Engineer (SSr)",
+      "subtitle": "Globant India Pvt Ltd",
+      "workType": "Full-time",
+      "workDescription": [
+        "Contributed to student learning mobile app to meet the client expectation as per requirement. Designed and developed mobile and web features like HappyFox chatbot integration, React native version upgradation from 0.60 to 0.64  using React Native , ReactJS, JavaScript, and TypeScript."
+      ],
+      "dateText": "07/2024 – till Date"
+    },
+    {
+      "title": "Software Development Engineer",
+      "subtitle": "Emtec Inc",
+      "workType": "Full-time",
+      "workDescription": [
+        "Integrated **2** new product.",
+        " Worked on designing, developing and implementing new features like adding different configurations,\n adding dyna,ic tables in the application using reeactJS, Javascript andTypeScript and cutting-edge technologies."
+      ],
+      "dateText": "06/2022 – 06/2024"
+    },
+    {
+      "title": "Full Stack Developer",
+      "subtitle": "MIndlogic Solutions LLP",
+      "workType": "Full-time",
+      "workDescription": ["Worked on Diamond Trading App."],
+      "dateText": "11/2021 – 05/2022"
+    },
+    {
+      "title": "Design Engineer",
+      "subtitle": "Sumesh Industries",
+      "workType": "Full-time",
+      "workDescription": [
+        "Carry out 3D Modelling, 2D drafting for Automotive Vehicle Assembly parts. Plan and Co-ordinate design activities"
+      ],
+      "dateText": "07/2019 – 09/2021"
+    }
+  ]
 }

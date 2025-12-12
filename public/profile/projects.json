@@ -1,41 +1,81 @@
 {
-    "projects" : [
+  "projects": [
+    {
+      "image": "images/projects/FoodifyImg.png",
+      "title": "Foodify",
+      "bodyText": "- Foodify Website made in React\n - Frontend is build using Parcel, ReactJS, Redux, Redux Toolkit, Tailwind CSS, Testing done using React-Testing Library, Jest.\n - Scalable and Productionized Code",
+      "links": [
         {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Portfolio",
-            "bodyText": "- Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/SHRUTIBIRRU/portfollio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://portfollio-shruti-birru24.vercel.app"
-                }
-            ],
-            "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
-            ]
+          "text": "GitHub",
+          "href": "https://github.com/SHRUTIBIRRU/Foodify"
+        }
+      ],
+      "tags": [
+        "ReactJS",
+        "JavaScript",
+        "Redux-Toolkit",
+        "Redux",
+        "Parcel",
+        "Tailwind CSS",
+        "React-Testing Library",
+        "Jest"
+      ]
+    },
+    {
+      "image": "images/projects/DevTinder.png",
+      "title": "DevTinder",
+      "bodyText": "- DevTinder Website made in MERN\n -  Fully developed using NODEJS backend APIs with Express framework and MongoDB and frontend is build using Vite, ReactJS, Tailwind CSS and deployed using AWS.\n - Scalable and Productionised Code",
+      "links": [
+        {
+          "text": "GitHub-Frontend",
+          "href": "https://github.com/SHRUTIBIRRU/DevTinder-web"
         },
         {
-            "image" : "images/projects/RN-login.jpg",
-            "title": "React-Native-Firebase-Auth-Login&registration",
-            "bodyText": "- Login and registartion mobile app using **React-Native** and **Firebase**.\n - Added User authentication and password stored in database using **Firebase**.",
-            "links": [
-                {
-                    "text": "GitHub",
-                    "href": "https://github.com/SHRUTIBIRRU/app-using-react-native-firebase"
-                }
-                
-            ],
-            "tags" : [
-                "React-Native",
-                "React",
-                "Firebase"
-            ]
-        }        
-    ]
+          "text": "GitHub-Backend",
+          "href": "https://github.com/SHRUTIBIRRU/DevTinder"
+        }
+      ],
+      "tags": [
+        "NodeJs",
+        "ExpressJS",
+        "React",
+        "MongoDB",
+        "Portfolio",
+        "JavaScript",
+        "Taiwind CSS",
+        "Aws",
+        "Cloudinary",
+        "pm2",
+        "nginx"
+      ]
+    },
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Portfolio",
+      "bodyText": "- Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/SHRUTIBIRRU/portfollio"
+        },
+        {
+          "text": "Live",
+          "href": "https://portfollio-shruti-birru24.vercel.app"
+        }
+      ],
+      "tags": ["React", "Portfolio", "JavaScript"]
+    },
+    {
+      "image": "images/projects/RN-login.jpg",
+      "title": "React-Native-Firebase-Auth-Login&registration",
+      "bodyText": "- Login and registartion mobile app using **React-Native** and **Firebase**.\n - Added User authentication and password stored in database using **Firebase**.",
+      "links": [
+        {
+          "text": "GitHub",
+          "href": "https://github.com/SHRUTIBIRRU/app-using-react-native-firebase"
+        }
+      ],
+      "tags": ["React-Native", "React", "Firebase"]
+    }
+  ]
 }
