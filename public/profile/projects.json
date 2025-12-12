@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "image": "images/projects/FoodifyImg.png",
+      "image": "images/projects/foodifyImg.png",
       "title": "Foodify",
       "bodyText": "- Foodify Website made in React\n - Frontend is build using Parcel, ReactJS, Redux, Redux Toolkit, Tailwind CSS, Testing done using React-Testing Library, Jest.\n - Scalable and Productionized Code",
       "links": [
