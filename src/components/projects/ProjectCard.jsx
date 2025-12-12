@@ -1,8 +1,10 @@
-import React, { useContext } from "react";
-import { Button, Card, Badge, Col } from "react-bootstrap";
-import PropTypes from "prop-types";
-import { ThemeContext } from "styled-components";
-import ReactMarkdown from "react-markdown";
+import React, { useContext } from 'react';
+import {
+  Button, Card, Badge, Col,
+} from 'react-bootstrap';
+import PropTypes from 'prop-types';
+import { ThemeContext } from 'styled-components';
+import ReactMarkdown from 'react-markdown';
 
 const styles = {
   badgeStyle: {
@@ -20,10 +22,10 @@ const styles = {
     fontWeight: 700,
   },
   cardTextStyle: {
-    textAlign: "left",
+    textAlign: 'left',
   },
   linkStyle: {
-    textDecoration: "none",
+    textDecoration: 'none',
     padding: 10,
   },
   buttonStyle: {
@@ -60,8 +62,8 @@ const ProjectCard = (props) => {
             <Button
               key={link.href}
               style={styles.buttonStyle}
-              variant={"outline-" + theme.bsSecondaryVariant}
-              onClick={() => window.open(link.href, "_blank")}
+              variant={'outline-' + theme.bsSecondaryVariant}
+              onClick={() => window.open(link.href, '_blank')}
             >
               {link.text}
             </Button>
@@ -97,7 +99,7 @@ ProjectCard.propTypes = {
       PropTypes.shape({
         text: PropTypes.string.isRequired,
         href: PropTypes.string.isRequired,
-      })
+      }),
     ),
     tags: PropTypes.arrayOf(PropTypes.string),
   }).isRequired,
